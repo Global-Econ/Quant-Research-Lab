@@ -1,0 +1,4 @@
+# Quant-Research-Lab
+
+This is a repository of materials for the class DEVELOPING COUNTRY GROWTH AND THE CHANGING STRUCTURE AND 
+CHALLENGES IN THE GLOBAL ECONOMY
